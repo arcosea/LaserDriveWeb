@@ -1,0 +1,23 @@
+.sprint-container{
+    min-height: 100vh;
+    display: grid;
+    text-align: left;
+    background-color: bisque;
+}
+
+.sprint-page-header{
+    margin: 0rem;
+    padding: 5rem 0rem 5rem 0rem;
+    text-align: center;
+}
+
+.sprint{
+    padding-left: 5%;
+    min-height: 50vh;
+}
+
+#sprint2{
+    background-color: black;
+    color: white;
+    min-height: 50vh;
+}
