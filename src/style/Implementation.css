@@ -1,0 +1,24 @@
+.implementation-container{
+    min-height: 100vh;
+    display: grid;
+    text-align: left;
+    background-color: bisque;
+}
+
+
+
+.implementation{
+    padding-left: 5%;
+    min-height: 50vh;
+}
+
+#lab1{
+    background-color: black;
+    color: white;
+    min-height: 50vh;
+}
+#lab3{
+    background-color: black;
+    color: white;
+    min-height:  50vh;
+}

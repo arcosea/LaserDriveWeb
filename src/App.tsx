@@ -7,7 +7,7 @@ import {Route, Routes, NavLink} from "react-router-dom";
 import Navbar from './NavBar';
 import { Home } from './pages/Home';
 import { About } from './pages/About';
-import { Sprints } from './pages/Sprints';
+import { Implementation } from './pages/Implementation';
 
 function App() {
   return (  
@@ -17,7 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={< Home />}/>
         <Route path="/about" element={<About />}/>
-        <Route path="/sprints" element={<Sprints />} />
+        <Route path="/implementation" element={<Implementation />} />
 
       </Routes>
     </div>
