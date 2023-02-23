@@ -12,6 +12,9 @@ export function About(){
                 <p>
                     text here
                 </p>
+                <img src="https://blog.technavio.org/wp-content/uploads/2018/11/Self-driving-Car-Companies-256x256.jpg" title="add a picture of our team here (right align)">
+
+                </img>
             </div>
         </div>
 

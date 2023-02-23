@@ -2,7 +2,7 @@
     min-height: 100vh;
     display: grid;
     text-align: left;
-    background-color: bisque;
+    background-color: black;
 }
 
 
@@ -13,12 +13,14 @@
 }
 
 #lab1{
-    background-color: black;
+    font-family: 'Gill Sans';
     color: white;
-    min-height: 50vh;
+}
+#lab2{
+    font-family: 'Gill Sans';
+    color: white;
 }
 #lab3{
-    background-color: black;
+    font-family: 'Gill Sans';
     color: white;
-    min-height:  50vh;
 }
