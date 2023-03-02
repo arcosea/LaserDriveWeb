@@ -3,7 +3,7 @@ import { isPropertySignature } from "typescript";
 
 export default function Footer(){
     return (
-        <nav className="nav">
+        <nav className="footer">
             <Link to="/" className="site-title"> About </Link>
             <ul>
                 <li> 
