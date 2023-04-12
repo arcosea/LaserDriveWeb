@@ -14,7 +14,7 @@ export default function Footer(){
                     <Link to="/about" className="site-title"> About </Link>
                 </li>
                 <li>
-                    <Link to="/implementation" className="site-title"> Contact Us </Link>
+                    <Link to="/contactus" className="site-title"> Contact Us </Link>
                 </li>
             </ul>
         </footer>

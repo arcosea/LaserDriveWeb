@@ -10,7 +10,7 @@ import { About } from './pages/About';
 import { Implementation } from './pages/Implementation';
 import { ROS } from './pages/ros';
 import { AEB } from './pages/aeb';
-
+import { ContactUs } from './pages/ContactUs';
 
 function App() {
   return (  
@@ -22,6 +22,7 @@ function App() {
         <Route path="/implementation" element={<Implementation />} />
         <Route path="/implementation/ros" element={<ROS />} />
         <Route path="/implementation/aeb" element={<AEB />} />
+        <Route path="/contactus" element={<ContactUs />} />
       </Routes>
     </div>
     <Footer />

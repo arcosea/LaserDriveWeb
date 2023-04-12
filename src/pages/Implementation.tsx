@@ -19,7 +19,7 @@ export function Implementation(){
                         Automatic Emergency Braking
                     </a>
                 </div>
-                <div className="implementation" id="ROS">
+                <div className="implementation" id="wallfollowing">
                     <a href="http://localhost:3000/implementation/wallfollowing">
                         Wall Following
                     </a>
