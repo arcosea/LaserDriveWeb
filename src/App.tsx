@@ -11,12 +11,16 @@ import { Implementation } from './pages/Implementation';
 import { ROS } from './pages/ros';
 import { AEB } from './pages/aeb';
 import { ContactUs } from './pages/ContactUs';
+import DarkMode from './darkmode';
 
 function App() {
   return (  
   <>
     <Navbar />
     <div className="App">
+      <header className='app-header'>
+        <DarkMode />
+      </header>
       <Routes>
         <Route path="/about" element={<About />}/>
         <Route path="/implementation" element={<Implementation />} />
