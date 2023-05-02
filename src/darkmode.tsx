@@ -28,7 +28,7 @@ export default function DarkMode(){
     return (
         <div className="toggle-theme-wrapper">
             <span> </span>
-            <label className="toggle-theme" htmlFor="checkbox">
+            <label className="toggle-theme" htmlFor="checkboxark ">
                 <input
                     type="checkbox"
                     id="checkbox"
